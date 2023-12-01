@@ -1,36 +1,34 @@
-## Offre d'Emploi : Scrum Master chez DigitalKin (35-50 k€)
+## Offre d'Emploi : Scrum Master Agile chez DigitalKin (35-50 k€)
 
 ### À propos de DigitalKin
-**DigitalKin** est une entreprise innovante, pionnière en matière d'Intelligences Artificielles Autonomes (Kins). Nous cherchons à renforcer notre équipe avec un **Scrum Master** passionné et motivé pour accompagner nos équipes dans leur croissance et leurs réussites.
+Chez **DigitalKin**, nous façonnons l'avenir de l'automatisation des processus d'entreprise grâce à nos Intelligences Artificielles Autonomes. Notre ambition est d'intégrer l'agilité au cœur de notre stratégie, rendant nos solutions IA encore plus dynamiques et réactives. Rejoignez-nous à Lyon pour être acteur du changement dans un monde en constante évolution.
 
-### Position : Scrum Master
+### Position : Scrum Master Agile
 
-* **Type de contrat** : Temps plein
-* **Lieu** : Lyon (Vaise), travail sur site
-* **Rémunération** : 35-50 k€
-* **Date de recrutement** : Flexible, dès que possible
-* **Processus de recrutement** : Entretien de fit, test de compétences, entretien administratif
-* **Contact** : recrutement@digitalkin.ai
+* **Type de contrat** : CDI 
+* **Lieu** : Lyon (Vaise) avec des possibilités de télétravail partiel
+* **Rémunération** : 35-50 k€ + avantages (mutuelle, tickets restaurant, etc.)
+* **Date de recrutement** : ASAP
+* **Contact** : [recrutement@digitalkin.ai](mailto:recrutement@digitalkin.ai)
 
 ### Mission
-Le Scrum Master sera la pierre angulaire de nos équipes projets, assurant que les principes et pratiques Scrum sont compris et mis en œuvre. Cette personne favorisera un environnement de travail où l'équipe peut atteindre sa performance maximale dans la livraison de produits innovants.
+En tant que Scrum Master Agile, votre rôle sera de promouvoir et supporter l'adoption de la méthodologie Scrum au sein de nos équipes de développement. Vous serez le garant de notre environnement Agile, facilitant la collaboration, la livraison continue et le développement personnel de chaque membre de l'équipe.
 
-### Responsabilités
-- Faciliter les événements Scrum (plannings, daily stand-ups, reviews, retrospectives) et assurer la communication au sein des équipes.
-- Aider l'équipe à devenir autonome et orientée vers les objectifs de sprint.
-- Gérer les outils d'automatisation de projets, en s'assurant que le backlog est bien priorisé et à jour.
-- Servir de coach pour l'équipe et l'organisation en matière de méthodologies Agiles.
-- Identifier et éliminer les obstacles pour optimiser les performances de l'équipe.
+### Vos Responsabilités
+1. **Encadrer** activement toutes les cérémonies Scrum, événements et processus.
+2. **Faciliter** la communication et la collaboration inter-équipes pour accroître la synergie.
+3. **Éliminer** les obstacles qui entravent la progression des équipes.
+4. **Coacher** les membres de l'équipe pour une compréhension approfondie de Scrum et de ses bénéfices.
+5. **Superviser** la mise en place et l'optimisation des outils de suivi de projet Agile.
 
 ### Profil Recherché
-- Certification Scrum Master (CSM, PSM I) ou expérience équivalente.
-- 1-2 ans d'expérience en gestion agile d'équipe.
-- Excellente compréhension des outils d'automatisation et de suivi de projets.
-- Compétences exceptionnelles en communication et facilitation.
-- Capacité à instaurer un climat de confiance et d'entraide au sein des équipes.
+- **Certification** Scrum Master et expérience significative dans un rôle similaire.
+- **Expertise** en facilitation de groupes et en gestion de conflits.
+- **Leadership** et **proactivité**, avec une capacité à motiver et à inspirer.
+- **Maîtrise** des outils d'automatisation de projet et des technologies Agile.
 
 ### Pourquoi Rejoindre DigitalKin ?
-En rejoignant DigitalKin, vous contribuerez activement à créer une différence marquante dans l'adoption de l'IA et de l'automatisation au sein de processus d'entreprise.
+En rejoignant notre équipe, vous serez entouré de penseurs innovants et contribuerez activement au succès de l'entreprise. Nous valorisons l'apprentissage continu, offrant des opportunités de progression et de certification dans l'Agile et l'IA.
 
-### Postulez Maintenant
-Intégrez une entreprise où votre travail a un réel impact. Si vous êtes un talent du Scrum Master, postulez à recrutement@digitalkin.ai ou partagez cette opportunité dans votre réseau.
+### Prêt à Transformer l'Agilité avec DigitalKin?
+Nous sommes impatients de découvrir comment vous pouvez accélérer notre croissance. Envoyez-nous votre CV et quelques mots sur la manière dont vous avez mis en place ou amélioré un processus Agile dans une équipe précédente : [recrutement@digitalkin.ai](mailto:recrutement@digitalkin.ai).
